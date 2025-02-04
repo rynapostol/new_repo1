@@ -1,0 +1,23 @@
+{
+  "name": "apostol",
+  "version": "7.7.7",
+  "type": "module",
+  "description": "act2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sillyname",
+    "qr",
+    "inquirer"
+  ],
+  "author": "rynapostol",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^12.4.1",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  }
+}
